@@ -122,6 +122,3 @@ def lotto4():
         rank = '꽝'
 
     return f'결과 : {str(sorted(lotto)) + rank}'
-#    return str(rank)
-
-
